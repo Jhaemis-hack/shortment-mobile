@@ -1,0 +1,10 @@
+# Files EAS uploads for cloud builds (used with EAS_NO_VCS=1, because this app lives inside the parent repo).
+node_modules/
+.expo/
+dist/
+web-build/
+android/
+ios/
+*.tsbuildinfo
+.env
+.env*.local
